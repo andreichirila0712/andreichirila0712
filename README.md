@@ -9,5 +9,3 @@ I'm Andrei, an aspiring software developer exploring open source to enhance my s
 ### 🚀 Learning Goals:
 - Growing my knowledge in Java, testing, and collaborative development tools.
 - Building confidence in large-scale applications.
-### Stats
-[![Andrei's GitHub stats](https://github-readme-stats-bm2xschws-andrei-chirilas-projects.vercel.app/api?username=andreichirila0712&show=prs_merged&hide=stars,issues&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
